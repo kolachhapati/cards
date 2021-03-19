@@ -1,2 +1,3 @@
 # cards
- Picture upload and display app
+-Build Api and Database for Photo Upload
+-Build Services in Angular to consume Api.
